@@ -1,10 +1,4 @@
 # Confidential file fetcher
 Data collection from an Αctive Directory
 
-Requires 
-
--mimikatz 
-
--john the ripper 
-
-In the same folder to work
+Requires mimikatz and john the ripper in the same folder as the main file to run
