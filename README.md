@@ -2,6 +2,7 @@
 Data collection from an Αctive Directory
 
 Requires 
+
 -mimikatz 
 
 -john the ripper 
