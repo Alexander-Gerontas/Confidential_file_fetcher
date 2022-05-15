@@ -1,2 +1,2 @@
-# Confidential_file_fetcher
+# Confidential file fetcher
 Data collection from an Αctive Directory
